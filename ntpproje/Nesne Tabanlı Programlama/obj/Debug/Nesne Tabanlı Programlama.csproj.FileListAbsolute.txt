@@ -1,0 +1,45 @@
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe.config
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.pdb
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.AssemblyReference.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Properties.Resources.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.GenerateResource.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.CoreCompileInputs.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.exe
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.pdb
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.KodGir.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe.manifest
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.application
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.exe.manifest
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.application
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Veritabanı_Ekleme.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.AssemblyReference.cache
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.exe
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.pdb
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe.config
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe.manifest
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.application
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.pdb
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.SignIn.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.KodGir.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.MainPage.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.MainPassword.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Password.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.PasswordReset.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Properties.Resources.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.SignUp.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Veritabanı_Ekleme.resources
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.GenerateResource.cache
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.csproj.CoreCompileInputs.cache
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.exe.manifest
+C:\Users\saffe\Downloads\Ödevler\ntp ödev\ntp ödev\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.application
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Kaydol.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Giris.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.AnaSayfa.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.zMainPassword.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.MailSifre.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.SifreSifirla.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.kullaniciAdiDegistir.resources

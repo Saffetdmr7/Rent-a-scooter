@@ -1,0 +1,23 @@
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe.config
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe.manifest
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.application
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.exe
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\bin\Debug\Nesne Tabanlı Programlama.pdb
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\ntpproje.csproj.AssemblyReference.cache
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\ntpproje.csproj.SuggestedBindingRedirects.cache
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Giris.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.KodGir.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.AnaSayfa.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.kullaniciAdiDegistir.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.zMainPassword.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.SifreSifirla.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Properties.Resources.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.Kaydol.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\ntpproje.csproj.GenerateResource.cache
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\ntpproje.csproj.CoreCompileInputs.cache
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.exe.manifest
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.application
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.exe
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne Tabanlı Programlama.pdb
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.EPostaDegistir.resources
+C:\Users\saffe\Desktop\dersler\Ntp\ntpproje\Nesne Tabanlı Programlama\obj\Debug\Nesne_Tabanlı_Programlama.MailKodGonder.resources
